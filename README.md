@@ -1,43 +1,55 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Jamal Mencci</h1>
+# Jamal Mencci - Computer Engineering Student
 
-![GitHub followers](https://img.shields.io/github/followers/Jamalmn?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Jamalmn?style=social) 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Jamalmn.repoName) 
-<img src="https://komarev.com/ghpvc/?username=Jamalmn" alt="Jamalmn" />
+## 👨‍💻 About Me
+Final year Computer Engineering student at Miguel Hernández University with a passion for software architecture and artificial intelligence. Experienced in mobile development using Angular framework through internships, with strong knowledge in machine learning algorithms and scalable system design.
 
-## About Me :
+- 📍 Based in Alicante, Spain  
+- 📧 Email: jamalmenchi@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/jamal-mencci/](https://linkedin.com/in/jamal-mencci/)  
 
-- 🎓 Studies for Computer Science at [Elx University](https://www.umh.es//)
-- 🏡'Lives in **Alicante/Valencia**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+## 🛠 Technical Skills
+**Programming Languages:** Python, Java, TypeScript  
+**Frameworks & Tools:** Angular, Ionic, PyTorch, Android Studio, REST APIs  
+**DevOps & Cloud:** Docker, AWS  
+**Databases:** MySQL  
+**Development Practices:** Scrum, Git & GitHub  
+**Testing:** Selenium, Usability Testing  
 
-<br>
+## 💼 Professional Experience
+### Mobile Developer Intern @ S.I.P.T, Elche (09/2023 – 12/2023)
+- Developed a cross-platform meditation app for iOS and Android using Angular, Ionic and TypeScript  
+- Implemented UI components and modules to optimize user experience  
+- Conducted testing and debugging to improve app quality and performance  
+- Participated in requirement definition and functionality planning  
 
-## Connect with me ☕ :
+## 🎓 Education
+**Bachelor's Degree in Computer Engineering (Information Technologies)**  
+Miguel Hernández University, Elche, Spain  
+*Expected Graduation: January 2026*  
 
-<br>
+## 📜 Certifications
+- Cisco Certified: Junior Cybersecurity Analyst Career Path (2024)  
+- Cisco Cybersecurity Certifications:  
+  - Introduction to Cybersecurity (2023)  
+  - Cyber Threat Management (2023)  
+  - Endpoint Security (2024)  
+  - Introduction to IoT (2024)  
+- Python Essentials 1 (2023) - Cisco  
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@jamalmencci")](https://www.linkedin.com/in/jamal-mencci-26045b284/) 
+## 🌐 Languages
+- Spanish: Native  
+- Arabic: Native  
+- Maltese: Native  
+- English: Intermediate  
+- French: Basic  
 
-<br>
+## 🔍 Currently Exploring
+- Advanced AI/ML models  
+- Scalable system architectures  
+- Best practices in software design patterns  
 
-## What I am Good at 🧑‍💻 :
+## 📫 Let's Connect!
+I'm always open to discussing new opportunities, collaborations or just chatting about technology. Feel free to reach out!  
 
-<br>
-
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> 
-
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>  <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
-
-
-
-<br>
-
-## GitHub Stats 📈 :
-
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jamalmn&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Jamalmn GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamalmn&theme=algolia)](https://github.com/Jamalmn/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamalmn&theme=algolia)](https://github.com/Jamalmn/github-readme-stats)
-
-<br>
-
-## GitHub Thropies 🏆 :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamal-mencci/)  
+📧 jamalmenchi@gmail.com 
