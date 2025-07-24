@@ -4,7 +4,7 @@
 Final year Computer Engineering student at Miguel Hernández University with a passion for software architecture and artificial intelligence. Experienced in mobile development using Angular framework through internships, with strong knowledge in machine learning algorithms and scalable system design.
 
 - 📍 Based in Alicante, Spain  
-- 📧 Email: jamalmenchi@gmail.com  
+- 📧 Email: jamaldev@proton.me 
 - 🔗 LinkedIn: [linkedin.com/in/jamal-mencci/](https://linkedin.com/in/jamal-mencci/)  
 
 ## 🛠 Technical Skills
@@ -16,7 +16,8 @@ Final year Computer Engineering student at Miguel Hernández University with a p
 **Testing:** Selenium, Usability Testing  
 
 ## 💼 Professional Experience
-### Mobile Developer Intern @ S.I.P.T, Elche (09/2023 – 12/2023)
+###
+ Mobile Developer Intern @ S.I.P.T, Elche (09/2023 – 12/2023)
 - Developed a cross-platform meditation app for iOS and Android using Angular, Ionic and TypeScript  
 - Implemented UI components and modules to optimize user experience  
 - Conducted testing and debugging to improve app quality and performance  
