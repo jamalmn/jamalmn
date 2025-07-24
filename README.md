@@ -1,4 +1,4 @@
-# Jamal Mencci - Computer Engineering Student
+# Jamal Mencci - Junior Software Developer
 
 ## 👨‍💻 About Me
 Final year Computer Engineering student at Miguel Hernández University with a passion for software architecture and artificial intelligence. Experienced in mobile development using Angular framework through internships, with strong knowledge in machine learning algorithms and scalable system design.
@@ -51,6 +51,4 @@ Miguel Hernández University, Elche, Spain
 
 ## 📫 Let's Connect!
 I'm always open to discussing new opportunities, collaborations or just chatting about technology. Feel free to reach out!  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamal-mencci/)  
-📧 jamalmenchi@gmail.com 
+ 
