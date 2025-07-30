@@ -1,5 +1,5 @@
 # Jamal Mencci - Junior Software Developer
-
+![Profile Views](https://komarev.com/ghpvc/?username=jamalmn&color=blue&style=flat-square)
 ## 👨‍💻 About Me
 Final year Computer Engineering student at Miguel Hernández University with a passion for software architecture and artificial intelligence. Experienced in mobile development using Angular framework through internships, with strong knowledge in machine learning algorithms and scalable system design.
 
