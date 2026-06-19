@@ -1,54 +1,73 @@
-# Jamal Mencci - Junior Software Developer
-![Profile Views](https://komarev.com/ghpvc/?username=jamalmn&color=blue&style=flat-square)
-## 👨‍💻 About Me
-Final year Computer Engineering student at Miguel Hernández University with a passion for software architecture and artificial intelligence. Experienced in mobile development using Angular framework through internships, with strong knowledge in machine learning algorithms and scalable system design.
+# Jamal Mencci - Junior Cloud & DevOps Engineer
 
-- 📍 Based in Alicante, Spain  
-- 📧 Email: jamaldev@proton.me 
-- 🔗 LinkedIn: [linkedin.com/in/jamal-mencci/](https://linkedin.com/in/jamal-mencci/)  
+ About Me
 
-## 🛠 Technical Skills
-**Programming Languages:** Python, Java, TypeScript  
-**Frameworks & Tools:** Angular, Ionic, PyTorch, Android Studio, REST APIs  
-**DevOps & Cloud:** Docker, AWS  
-**Databases:** MySQL  
-**Development Practices:** Scrum, Git & GitHub  
-**Testing:** Selenium, Usability Testing  
+Software engineer with hands-on experience in enterprise automation (RPA), low-code development, and cloud services within the Microsoft ecosystem. Building towards DevOps and Cloud Engineering, with growing skills in Docker, CI/CD, and AWS.
 
-## 💼 Professional Experience
-###
- Mobile Developer Intern @ S.I.P.T, Elche (09/2023 – 12/2023)
-- Developed a cross-platform meditation app for iOS and Android using Angular, Ionic and TypeScript  
-- Implemented UI components and modules to optimize user experience  
-- Conducted testing and debugging to improve app quality and performance  
-- Participated in requirement definition and functionality planning  
 
-## 🎓 Education
-**Bachelor's Degree in Computer Engineering (Information Technologies)**  
-Miguel Hernández University, Elche, Spain  
-*Expected Graduation: January 2026*  
+📍 Based in Alicante, Spain
+📧 Email: devvjobs@gmail.com
+🔗 LinkedIn: linkedin.com/in/jamal-mencci/
 
-## 📜 Certifications
-- Cisco Certified: Junior Cybersecurity Analyst Career Path (2024)  
-- Cisco Cybersecurity Certifications:  
-  - Introduction to Cybersecurity (2023)  
-  - Cyber Threat Management (2023)  
-  - Endpoint Security (2024)  
-  - Introduction to IoT (2024)  
-- Python Essentials 1 (2023) - Cisco  
 
-## 🌐 Languages
-- Spanish: Native  
-- Arabic: Native  
-- Maltese: Native  
-- English: Intermediate  
-- French: Basic  
+🛠 Technical Skills
 
-## 🔍 Currently Exploring
-- Advanced AI/ML models  
-- Scalable system architectures  
-- Best practices in software design patterns  
+Cloud & DevOps: Microsoft Azure, Docker, GitHub Actions (CI/CD), Bash, Linux
 
-## 📫 Let's Connect!
-I'm always open to discussing new opportunities, collaborations or just chatting about technology. Feel free to reach out!  
- 
+Automation & RPA: Power Automate Cloud, Power Automate Desktop, AI Builder, Microsoft Copilot, Copilot Studio
+
+Low-Code Platforms: Canvas Apps, Model-Driven Apps, Power Pages, Dataverse, SharePoint, SQL Server
+
+Programming: Python, Java, JavaScript, TypeScript, HTML/CSS, C++, Angular, Ionic
+
+Databases: MySQL, SQL Server
+
+Testing: Jest
+
+Development Practices: Scrum, Agile, Git & GitHub, REST APIs
+
+💼 Professional Experience
+
+Power Platform Developer Intern @ NTT DATA Europe & Latam (03/2026 – Present)
+
+
+Contributed to designing cloud and desktop RPA workflows using Power Automate as part of structured onboarding across the full Power Platform stack
+Contributed to developing a Canvas App integrated with Dataverse and assisted in delivering a Power Pages portal using JavaScript, HTML, and CSS
+Assisted in deploying Azure Functions to extend Power Platform capabilities with custom business logic
+Integrated Microsoft Copilot AI to automate data interaction and enhance product functionality
+Collaborated within Agile/Scrum teams delivering Microsoft 365 ecosystem solutions
+
+
+Mobile Developer Intern @ S.I.P.T, Elche (09/2023 – 12/2023)
+
+
+Developed a cross-platform mobile application for iOS and Android using Angular and Ionic, covering UX/UI design and frontend logic
+Implemented multimedia playback features and managed application state across both platforms
+Configured and tested the deployment environment using Android Studio
+Maintained version control and collaborative workflow using Git/GitHub
+
+
+🎓 Education
+
+Bachelor of Science: Computer Engineering (Information Technologies)
+
+Universidad Miguel Hernández, Elche, Spain
+
+📜 Certifications
+
+
+Junior Cybersecurity Analyst Career Path (2024) - Cisco
+Cyber Threat Management (2023) - Cisco
+Endpoint Security (2024) - Cisco
+Python Essentials 2 (2025) - Cisco
+English for IT 2 (2025) - Cisco
+
+
+🌐 Languages
+
+
+Spanish: Native
+Arabic: Native
+Maltese: Native
+English: Intermediate
+French: Basic
