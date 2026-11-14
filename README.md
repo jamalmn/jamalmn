@@ -6,7 +6,6 @@ Software engineer with hands-on experience in enterprise automation (RPA), low-c
 
 
 📍 Based in Alicante, Spain
-📧 Email: devvjobs@gmail.com
 🔗 LinkedIn: linkedin.com/in/jamal-mencci/
 
 
@@ -28,7 +27,7 @@ Development Practices: Scrum, Agile, Git & GitHub, REST APIs
 
 💼 Professional Experience
 
-Power Platform Developer Intern @ NTT DATA Europe & Latam (03/2026 – Present)
+Power Platform Developer Intern @ NTT DATA Europe & Latam (03/2026 – 08/2026)
 
 
 Contributed to designing cloud and desktop RPA workflows using Power Automate as part of structured onboarding across the full Power Platform stack
