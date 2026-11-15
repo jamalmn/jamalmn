@@ -1,72 +1,45 @@
-# Jamal Mencci - Junior Cloud & DevOps Engineer
+# Jamal Mencci
 
- About Me
+**Junior Cloud & DevOps Engineer | Automation · Azure · Power Platform**
 
-Software engineer with hands-on experience in enterprise automation (RPA), low-code development, and cloud services within the Microsoft ecosystem. Building towards DevOps and Cloud Engineering, with growing skills in Docker, CI/CD, and AWS.
+Spain · Remote / Hybrid · [LinkedIn](https://www.linkedin.com/in/jamal-mencci/)
 
+## Profile
 
-📍 Based in Alicante, Spain
-🔗 LinkedIn: linkedin.com/in/jamal-mencci/
+Cloud & DevOps engineer with 6+ months of professional experience in Azure, Power Platform automation and full-stack development, delivering Azure Functions, Power Automate and Dataverse solutions for client projects.
+Looking for a junior Cloud/DevOps role to grow in CI/CD, containers and infrastructure as code.
 
+## Professional Experience
 
-🛠 Technical Skills
+**Power Platform Developer Intern** · Mar 2026 – Aug 2026
 
-Cloud & DevOps: Microsoft Azure, Docker, GitHub Actions (CI/CD), Bash, Linux
+- Built an order-management Canvas App on Dataverse (responsive UI, multi-product order lines, 5 order states, 2 user roles), including table design and Power Fx logic.
+- Designed cloud and desktop RPA workflows with Power Automate across the full Power Platform stack.
+- Delivered, with the team, 1 Power Pages portal (JavaScript, HTML, CSS) and deployed Azure Functions with custom business logic for 1 client project.
+- Integrated Microsoft Copilot AI to automate data interaction and enhance product functionality.
+- Worked in Agile/Scrum teams across 2 client projects delivering Microsoft 365 ecosystem solutions.
 
-Automation & RPA: Power Automate Cloud, Power Automate Desktop, AI Builder, Microsoft Copilot, Copilot Studio
+**Mobile Developer Intern** · Sep 2023 – Dec 2023
 
-Low-Code Platforms: Canvas Apps, Model-Driven Apps, Power Pages, Dataverse, SharePoint, SQL Server
+- Developed 1 cross-platform mobile app (iOS & Android) with Angular and Ionic, from UX/UI design to frontend logic and component architecture.
+- Implemented multimedia playback and application state management; configured and tested the deployment environment with Android Studio.
 
-Programming: Python, Java, JavaScript, TypeScript, HTML/CSS, C++, Angular, Ionic
+## Education
 
-Databases: MySQL, SQL Server
+BSc in Computer Engineering in Information Technologies
+Relevant coursework: Algorithms & Complexity, Data Structures, Databases, Software Architecture, Operating Systems, Networking.
 
-Testing: Jest
+## Technical Skills & Certifications
 
-Development Practices: Scrum, Agile, Git & GitHub, REST APIs
+- **Cloud & DevOps:** Microsoft Azure, Azure Functions, Docker, GitHub Actions (CI/CD), Linux, Bash, Git
+- **Backend & Data:** Node.js, PostgreSQL, SQL Server, REST APIs
+- **Automation & Low-Code:** Power Automate (Cloud & Desktop), Canvas & Model-Driven Apps, Power Pages, Dataverse, AI Builder, Copilot Studio, SharePoint
+- **Programming:** Python, JavaScript, TypeScript, Java, C++, HTML/CSS, React, Angular, Ionic
+- **Certifications:** AWS Certified Cloud Practitioner (in progress, 2027). Cisco Networking Academy: Cyber Threat Management, Endpoint Security, Junior Cybersecurity Analyst, Python Essentials 2
+- **Languages:** Spanish, Arabic, Maltese (native); English B2 (preparing Cambridge C1); French (basic)
 
-💼 Professional Experience
+## Projects
 
-Power Platform Developer Intern @ NTT DATA Europe & Latam (03/2026 – 08/2026)
+Degree-thesis project available on request.
 
-
-Contributed to designing cloud and desktop RPA workflows using Power Automate as part of structured onboarding across the full Power Platform stack
-Contributed to developing a Canvas App integrated with Dataverse and assisted in delivering a Power Pages portal using JavaScript, HTML, and CSS
-Assisted in deploying Azure Functions to extend Power Platform capabilities with custom business logic
-Integrated Microsoft Copilot AI to automate data interaction and enhance product functionality
-Collaborated within Agile/Scrum teams delivering Microsoft 365 ecosystem solutions
-
-
-Mobile Developer Intern @ S.I.P.T, Elche (09/2023 – 12/2023)
-
-
-Developed a cross-platform mobile application for iOS and Android using Angular and Ionic, covering UX/UI design and frontend logic
-Implemented multimedia playback features and managed application state across both platforms
-Configured and tested the deployment environment using Android Studio
-Maintained version control and collaborative workflow using Git/GitHub
-
-
-🎓 Education
-
-Bachelor of Science: Computer Engineering (Information Technologies)
-
-Universidad Miguel Hernández, Elche, Spain
-
-📜 Certifications
-
-
-Junior Cybersecurity Analyst Career Path (2024) - Cisco
-Cyber Threat Management (2023) - Cisco
-Endpoint Security (2024) - Cisco
-Python Essentials 2 (2025) - Cisco
-English for IT 2 (2025) - Cisco
-
-
-🌐 Languages
-
-
-Spanish: Native
-Arabic: Native
-Maltese: Native
-English: Intermediate
-French: Basic
+<!-- TODO: add public projects here (name, one-line description, stack and repo link) when they are ready -->
