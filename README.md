@@ -11,7 +11,7 @@ Looking for a junior Cloud/DevOps role to grow in CI/CD, containers and infrastr
 
 ## Professional Experience
 
-**Power Platform Developer Intern** · Mar 2026 – Aug 2026 (completed)
+**Power Platform Developer Intern** · Mar 2026 – Aug 2026
 
 - Built an order-management Canvas App on Dataverse (responsive UI, multi-product order lines, 5 order states, 2 user roles), including table design and Power Fx logic.
 - Designed cloud and desktop RPA workflows with Power Automate across the full Power Platform stack.
@@ -26,7 +26,7 @@ Looking for a junior Cloud/DevOps role to grow in CI/CD, containers and infrastr
 
 ## Education
 
-BSc in Computer Engineering in Information Technologies · Expected Nov 2026
+BSc in Computer Engineering in Information Technologies
 Relevant coursework: Algorithms & Complexity, Data Structures, Databases, Software Architecture, Operating Systems, Networking.
 
 ## Technical Skills & Certifications
